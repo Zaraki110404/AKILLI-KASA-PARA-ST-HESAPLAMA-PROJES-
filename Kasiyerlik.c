@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h> // roundf() fonksiyonu icin eklendi
+#include <math.h> // roundf() fonksiyonu icin ekledim
 
 int main() 
 {
